@@ -9,7 +9,6 @@
 */
 
 /* So far, the original code as reachable from http://homepages.cwi.nl/~tromp/cl/uni.c
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
@@ -38,3 +37,4 @@ int main(int t){char o;
  }
  return T[t+2];
 }
+*/
