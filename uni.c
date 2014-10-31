@@ -38,3 +38,15 @@ int main(int t){char o;
  return T[t+2];
 }
 */
+
+
+/*Here we go*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <assert.h>
+
+#define M 500000
+
+enum {I,O,V,A,L};
+
